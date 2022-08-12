@@ -1,0 +1,134 @@
+2022-08-10 10:59:21,110 INFO msg:Watching for file changes with StatReloader
+2022-08-10 10:59:35,684 WARNING msg:Not Found: /
+2022-08-10 10:59:35,685 WARNING msg:"GET / HTTP/1.1" 404 2397
+2022-08-10 10:59:41,026 INFO msg:"GET /redis_cache/ HTTP/1.1" 200 3180
+2022-08-10 10:59:43,550 INFO msg:"GET /redis_cache/1 HTTP/1.1" 200 767
+2022-08-10 10:59:49,025 WARNING msg:Not Found: /
+2022-08-10 10:59:49,025 WARNING msg:"GET / HTTP/1.1" 404 2397
+2022-08-10 10:59:57,320 INFO msg:"GET /redis_cache/ HTTP/1.1" 200 3180
+2022-08-10 10:59:59,789 INFO msg:"GET /redis_cache/1 HTTP/1.1" 200 767
+2022-08-10 11:07:19,013 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:07:20,220 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:07:23,977 INFO msg:"GET /redis_cache/1 HTTP/1.1" 200 767
+2022-08-10 11:09:17,646 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:09:19,074 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:09:33,427 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:09:37,386 WARNING msg:Not Found: /
+2022-08-10 11:09:37,388 WARNING msg:"GET / HTTP/1.1" 404 2397
+2022-08-10 11:09:46,786 INFO msg:"GET /redis_cache/ HTTP/1.1" 200 3180
+2022-08-10 11:09:49,216 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:10:13,467 WARNING msg:Not Found: /
+2022-08-10 11:10:13,471 WARNING msg:"GET / HTTP/1.1" 404 2397
+2022-08-10 11:10:23,611 INFO msg:"GET /redis_cache/ HTTP/1.1" 200 3180
+2022-08-10 11:10:25,547 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:11:56,156 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:11:59,844 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:12:04,785 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:12:04,797 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:12:41,678 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:12:45,621 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:12:49,144 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:13:33,021 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:13:34,419 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:13:39,132 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:13:40,349 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:13:49,426 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:13:50,554 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:13:57,134 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:13:58,084 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:14:00,553 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:14:01,473 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:14:04,967 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:14:05,940 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:14:08,395 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:14:09,323 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:14:37,061 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:15:08,644 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:15:09,601 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:15:11,017 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:15:11,992 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:15:15,482 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:15:16,380 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:15:20,952 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:15:58,820 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:16:10,720 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:16:41,464 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:16:45,727 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:16:50,576 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:51,126 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:51,330 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:51,525 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:51,753 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:51,947 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:52,159 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:52,367 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:52,562 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:52,693 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:52,896 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:53,077 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:53,253 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:16:53,555 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:06,799 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:17:08,252 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:17:11,713 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:17:15,633 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:17:18,305 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:18,529 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:18,712 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:18,891 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:19,228 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:19,389 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:19,574 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:19,756 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:19,931 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:20,114 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:20,285 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:20,447 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:20,594 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:20,774 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:20,935 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:21,123 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:17:21,270 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:19:29,984 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:19:34,779 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:19:56,243 INFO msg:D:\git_data\pythonBoilerPlateCode\apps\redis_cache\views.py changed, reloading.
+2022-08-10 11:20:00,670 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:20:04,983 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:04,997 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:05,181 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:05,185 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:05,458 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:05,464 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:05,617 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:05,622 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:06,723 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:06,726 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:06,959 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:06,964 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:07,172 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:07,177 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:07,403 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:07,407 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:07,626 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:07,629 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:07,844 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:07,849 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:07,993 INFO msg:DATA COMING FROM CACHE
+2022-08-10 11:20:07,999 INFO msg:"GET /redis_cache/2 HTTP/1.1" 200 847
+2022-08-10 11:20:26,309 WARNING msg:Not Found: /
+2022-08-10 11:20:26,313 WARNING msg:"GET / HTTP/1.1" 404 2397
+2022-08-10 11:20:33,157 INFO msg:"GET /payment/ HTTP/1.1" 200 1919
+2022-08-10 11:21:09,571 INFO msg:"POST /payment/ HTTP/1.1" 302 0
+2022-08-10 11:21:09,611 INFO msg:"GET /payment/success HTTP/1.1" 200 1038
+2022-08-10 11:21:13,142 INFO msg:"GET /payment/ HTTP/1.1" 200 1919
+2022-08-10 11:21:50,261 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:21:51,631 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:23:01,146 INFO msg:"GET /payment/ HTTP/1.1" 200 1919
+2022-08-10 11:23:11,013 INFO msg:"GET /payment/ HTTP/1.1" 200 1844
+2022-08-10 11:23:11,270 INFO msg:"GET /payment/ HTTP/1.1" 200 1844
+2022-08-10 11:23:11,505 INFO msg:"GET /payment/ HTTP/1.1" 200 1844
+2022-08-10 11:23:11,746 INFO msg:"GET /payment/ HTTP/1.1" 200 1844
+2022-08-10 11:25:04,789 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:25:06,094 INFO msg:Watching for file changes with StatReloader
+2022-08-10 11:25:49,315 INFO msg:D:\git_data\pythonBoilerPlateCode\drf_backend_api\settings.py changed, reloading.
+2022-08-10 11:25:50,798 INFO msg:Watching for file changes with StatReloader

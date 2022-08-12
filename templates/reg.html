@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="#">
+      Name: <input type="text" id="name" name="name" /><br />
+      Email: <input type="email" id="email" name="email" /><br />
+      password: <input type="password" id="password" name="password" /><br />
+      <button
+        style="color: red"
+        onclick="myFunction()"
+      >submit</button>
+    </form>
+    <!-- <script>
+        
+      function myFunction() {
+        let name = document.getElementById("name").value;
+        let email = document.getElementById("email").value;
+        let password = document.getElementById("password").value;
+        const data = { name: name, email: email, password: password };
+
+        fetch("http://127.0.0.1:8000/reg/", {
+          method: "POST",
+          body: JSON.stringify(data),
+          headers: {
+            "Content-Type": "application/json",
+            // 'Content-Type': 'application/x-www-form-urlencoded',
+          },
+        }).then(res => res.json())
+   .then(res => console.log(res));
+      }
+    </script> -->
+    <script>
+        let my_data=[];
+        function myFunction() {
+          let data = {
+             name: document.getElementById('name').value,
+             email:document.getElementById('email').value,
+             password:document.getElementById('password').value,
+          };
+          const options = {
+           method: 'POST',
+           body: JSON.stringify(data),
+           headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json',
+      }
+}
+fetch('http://127.0.0.1:8000/emailAuth/reg/', options)
+.then(res => res.json())
+   .then(res => console.log(res));
+
+   
+        }
+
+        </script>
+  </body>
+</html>
